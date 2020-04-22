@@ -1,2 +1,2 @@
 # hw-Dimash
-hw Dimash
+Dinmukhammed Kairatov cs-1905
